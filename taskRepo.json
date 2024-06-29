@@ -1,9 +1,0 @@
-{
-    "name": "🐧MakeLinuxGreatAgain",
-    "description": "Open linux.do evary day",
-    "task": [
-        {
-            "config": "06 6 * * * openlinux.js, tag=Linux Checkbox, img-url=https://avatars.githubusercontent.com/u/8010600, enabled=true"
-        }
-     ]
-}
