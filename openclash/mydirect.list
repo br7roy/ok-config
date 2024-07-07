@@ -2,6 +2,6 @@
 
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,cdn.jsdelivr.net
+#DOMAIN-SUFFIX,cdn.jsdelivr.net
 
 #DOMAIN,public-ubiservices.ubi.co
