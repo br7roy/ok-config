@@ -1,12 +1,12 @@
 # comment
-DOMAIN-SUFFIX,google.com
-DOMAIN-KEYWORD,google
-DOMAIN,ad.com
-SRC-IP-CIDR,192.168.1.201/32
-IP-CIDR,127.0.0.0/8
-GEOIP,CN
-DST-PORT,80
-SRC-PORT,7777
+#DOMAIN-SUFFIX,google.com
+#DOMAIN-KEYWORD,google
+#DOMAIN,ad.com
+#SRC-IP-CIDR,192.168.1.201/32
+#IP-CIDR,127.0.0.0/8
+#GEOIP,CN
+#DST-PORT,80
+#SRC-PORT,7777
 
 #################
 
@@ -14,9 +14,9 @@ SRC-PORT,7777
 #DOMAIN-SUFFIX,freenom.com
 #DOMAIN-SUFFIX,linux.do
 #DOMAIN-SUFFIX,cdn.jsdelivr.net
+#DOMAIN,public-ubiservices.ubi.co
 DOMAIN,mirror.ghproxy.com
 DOMAIN,shared.oaifree.com
-#DOMAIN,public-ubiservices.ubi.co
 DOMAIN-SUFFIX,163.com
 DOMAIN,fastly.jsdelivr.net
 DOMAIN-SUFFIX,blbtgg.com
