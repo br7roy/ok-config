@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,pub.dev
+DOMAIN,default.exp-tas.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,api.cocopilot.org
