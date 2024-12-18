@@ -2,6 +2,7 @@
 #VER=20241217024502
 #URL=https://github.com/br7roy/ok-config/surge/iosUpdate.sg
 #TOTAL_LINES=4
+
 #DOMAIN-SET,https://raw.githubusercontent.com/br7roy/ok-config/refs/heads/master/surge/iosUpdate.sg
 .mesu.apple.com
 .gdmf.apple.com
