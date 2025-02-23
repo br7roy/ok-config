@@ -7,4 +7,5 @@ DOMAIN,default.exp-tas.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,api.cocopilot.org
 DOMAIN,cocopilot.org
-DOMAIN,xiaoxintv.cc
+DOMAIN-SUFFIX,xiaoxintv.cc
+DOMAIN-SUFFIX,xiaoxintv.com
