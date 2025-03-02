@@ -1,4 +1,17 @@
-DOMAIN-KEYWORD,download.parallels.com
-IP-CIDR,139.196.76.139/32
-IP-CIDR,139.196.31.229/32
-DOMAIN-KEYWORD,gcp.xbxxhz.com
+payload:
+  - '+.download.parallels.com'
+  - '+.gcp.xbxxhz.com'
+  - '+.0rz.tw'
+  - '+.1-apple.com.tw'
+  - '+.10.tt'
+  - '+.1000giri.net'
+  - '+.100ke.org'
+  - '+.10beasts.net'
+  - '+.10conditionsoflove.com'
+  - '+.10musume.com'
+  - '+.123rf.com'
+  - '+.12bet.com'
+  - '+.12vpn.com'
+  - '+.12vpn.net'
+  - '+.1337x.to'
+  - '+.138.com'
