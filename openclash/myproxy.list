@@ -1,16 +1,15 @@
-#DOMAIN
-DOMAIN-SUFFIX,xiaoxintv.cc
-DOMAIN-SUFFIX,xiaoxintv.com
-DOMAIN-SUFFIX,huawei8.live
-DOMAIN-SUFFIX,gcp.xbxxhz.com
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,content-autofill.googleapis.com
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,tvfuwu.com
-DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,pub.dev
-DOMAIN,default.exp-tas.com
-DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,api.cocopilot.org
-DOMAIN,cocopilot.org
-
+payload:
+  - '+.xiaoxintv.cc'
+  - '+.xiaoxintv.com'
+  - '+.xbyy.app'
+  - '+.huawei8.live'
+  - '+.gcp.xbxxhz.com'
+  - '+.aaplimg.com'
+  - '+.content-autofill.googleapis.com'
+  - '+.openwrt.org'
+  - '+.tvfuwu.com'
+  - '+.sspai.com'
+  - '+.default.exp-tas.com'
+  - '+.copilot-proxy.githubusercontent.com'
+  - '+.api.cocopilot.org'
+  - '+.cocopilot.org'
