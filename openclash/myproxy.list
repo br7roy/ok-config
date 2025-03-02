@@ -1,4 +1,10 @@
 #DOMAIN
+DOMAIN-SUFFIX,xiaoxintv.cc
+DOMAIN-SUFFIX,xiaoxintv.com
+DOMAIN-SUFFIX,huawei8.live
+DOMAIN-SUFFIX,gcp.xbxxhz.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,content-autofill.googleapis.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,tvfuwu.com
 DOMAIN-SUFFIX,sspai.com
@@ -7,5 +13,4 @@ DOMAIN,default.exp-tas.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,api.cocopilot.org
 DOMAIN,cocopilot.org
-DOMAIN-SUFFIX,xiaoxintv.cc
-DOMAIN-SUFFIX,xiaoxintv.com
+
