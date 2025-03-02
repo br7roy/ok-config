@@ -1,22 +1,11 @@
-# comment
-#DOMAIN-SUFFIX,google.com
-#DOMAIN-KEYWORD,google
-#DOMAIN,ad.com
-#SRC-IP-CIDR,192.168.1.201/32
-#IP-CIDR,127.0.0.0/8
-#GEOIP,CN
-#DST-PORT,80
-#SRC-PORT,7777
+payload:
+  - '+.freenom.com'
+  - '+.linux.do'
+  - '+.cdn.jsdelivr.net'
+  - '+.public-ubiservices.ubi.co'
+  - '+.mirror.ghproxy.com'
+  - '+.fastly.jsdelivr.net'
+  - '+.blbtgg.com'
+  - '+.www.guangbomi.com'
+  - '+.ottcn.com'
 
-#################
-
-
-#DOMAIN-SUFFIX,freenom.com
-#DOMAIN-SUFFIX,linux.do
-#DOMAIN-SUFFIX,cdn.jsdelivr.net
-#DOMAIN,public-ubiservices.ubi.co
-DOMAIN,mirror.ghproxy.com
-DOMAIN,fastly.jsdelivr.net
-DOMAIN-SUFFIX,blbtgg.com
-DOMAIN-SUFFIX,www.guangbomi.com
-DOMAIN-SUFFIX,ottcn.com
