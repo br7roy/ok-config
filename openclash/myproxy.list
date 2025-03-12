@@ -16,3 +16,4 @@ payload:
   - '+.api.cocopilot.org'
   - '+.cocopilot.org'
   - '+.analytics.immersivetranslate.com'
+  - '+.docker.io'
