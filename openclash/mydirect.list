@@ -1,4 +1,5 @@
 payload:
+  - '+.workers.dev'
   - '+.freenom.com'
   - '+.linux.do'
   - '+.cdn.jsdelivr.net'
