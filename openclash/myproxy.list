@@ -1,4 +1,5 @@
 payload:
+  - '+.nintendo.com'
   - '+.wise.com'
   - '+.sagernet.org'
   - '+.rss.m-team.cc'
