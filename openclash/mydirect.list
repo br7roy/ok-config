@@ -1,7 +1,6 @@
 payload:
   - '+.workers.dev'
   - '+.freenom.com'
-  - '+.linux.do'
   - '+.cdn.jsdelivr.net'
   - '+.public-ubiservices.ubi.co'
   - '+.mirror.ghproxy.com'
