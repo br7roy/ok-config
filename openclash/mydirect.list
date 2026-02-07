@@ -1,4 +1,5 @@
 payload:
+  - '+.gyg.la'
   - '+.workers.dev'
   - '+.freenom.com'
   - '+.cdn.jsdelivr.net'
