@@ -1,4 +1,5 @@
 payload:
+  - '+.api.takfu.dev'
   - '+.www.gyg.la'
   - '+.gyg.la'
   - '+.workers.dev'
