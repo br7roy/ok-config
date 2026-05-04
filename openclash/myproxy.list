@@ -1,4 +1,6 @@
 payload:
+  - '+.tempmail.takfu.workers.dev'
+  - '+.workers.dev'
   - '+.infermesh.cn'
   - '+.wzw.de5.net'
   - '+.newapi.netlib.re'
