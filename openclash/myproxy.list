@@ -1,4 +1,5 @@
 payload:
+  - '+.tak.myservice.cpamgr'
   - '+.tempmail.takfu.workers.dev'
   - '+.workers.dev'
   - '+.infermesh.cn'
