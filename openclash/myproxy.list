@@ -1,4 +1,5 @@
 payload:
+  - '+ports.ubuntu.com'
   - '+.tak.myservice.cpamgr'
   - '+.tempmail.takfu.workers.dev'
   - '+.workers.dev'
