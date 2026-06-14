@@ -1,4 +1,7 @@
 payload:
+  - '+.auth.pepperstone.com'
+  - '+.ct.pepperstone.com'
+  - '+.secure-api.pepperstone.com'
   - '+.secure.pepperstone.com'
   - '+.api.luka77.cc'
   - '+.new.sharedchat.cc'
