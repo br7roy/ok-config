@@ -1,4 +1,5 @@
 payload:
+  - '+auth.pepperstone.com'
   - '+onenovaweb.phillipmobile.com'
   - '+ports.ubuntu.com'
   - '+.tak.myservice.cpamgr'
