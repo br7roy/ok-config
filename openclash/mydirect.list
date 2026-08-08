@@ -1,5 +1,4 @@
 payload:
-  - '+.amp-api-search-edge.apps.apple.com'
   - '+.auth.pepperstone.com'
   - '+.ct.pepperstone.com'
   - '+.secure-api.pepperstone.com'
