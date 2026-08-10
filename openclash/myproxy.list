@@ -1,4 +1,6 @@
 payload:
+  - '+tak.myservice.remote'
+  - '+tak.myservice.cpamgr'
   - '+opencode.ai'
   - '+auth.pepperstone.com'
   - '+onenovaweb.phillipmobile.com'
