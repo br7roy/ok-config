@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "1ptba.com",
+        "aabbccmdd.takfu.dev",
+        "announce.leaguehd.com",
+        "dasho.赔钱.com",
+        "ipv6-tracker.m-team.cc",
+        "m-team.cc",
+        "m-team.io",
+        "pt.btschool.club",
+        "ptsbao.club",
+        "rousi.zip",
+        "tra1.m-team.cc",
+        "tra1.m-team.io",
+        "tracker.m-team.cc",
+        "tracker.m-team.io"
+      ],
+      "domain_suffix": [
+        "1ms.run",
+        "a-ocnfniawgw.cn-shanghai.fcapp.run",
+        "amp-api-search-edge.apps.apple.com",
+        "api.luka77.cc",
+        "auth.pepperstone.com",
+        "blbtgg.com",
+        "btschool.club",
+        "cdn.jsdelivr.net",
+        "ct.pepperstone.com",
+        "download.ibkr.com.cn",
+        "fastly.jsdelivr.net",
+        "freenom.com",
+        "ghfast.top",
+        "gyg.la",
+        "ibkr.com",
+        "ibllc.com",
+        "ibllc.com.cn",
+        "mirror.ghproxy.com",
+        "muyuan.do",
+        "new.sharedchat.cc",
+        "ottcn.com",
+        "public-ubiservices.ubi.co",
+        "rousi.zip",
+        "secure-api.pepperstone.com",
+        "secure.pepperstone.com",
+        "takfu.dev",
+        "tc100.com",
+        "www.guangbomi.com",
+        "www.gyg.la",
+        "xn--ngstr-lra8j.com"
+      ],
+      "domain_keyword": [
+        "m-team",
+        "qingwa"
+      ]
+    }
+  ]
+}
