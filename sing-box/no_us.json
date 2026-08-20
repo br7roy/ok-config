@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "datadoghq.com",
+        "e-futures.com",
+        "force.com",
+        "home.saxo",
+        "pepperstone.com",
+        "phillipnova.com.sg",
+        "plus500.com",
+        "salesforce.com",
+        "salesforce-scrt.com",
+        "www.xda-developers.com"
+      ]
+    }
+  ]
+}
