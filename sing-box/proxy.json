@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "rss.m-team.cc"
+      ],
+      "domain_suffix": [
+        "88code.org",
+        "aaplimg.com",
+        "analytics.immersivetranslate.com",
+        "api.cocopilot.org",
+        "api.dev88.tech",
+        "auth.pepperstone.com",
+        "ccode.qzz.io",
+        "cocopilot.org",
+        "content-autofill.googleapis.com",
+        "copilot-proxy.githubusercontent.com",
+        "default.exp-tas.com",
+        "docker.io",
+        "finnhub.io",
+        "gcp.xbxxhz.com",
+        "huawei8.live",
+        "infermesh.cn",
+        "interactivebrokers.com",
+        "linux.do",
+        "metacubex.one",
+        "newapi.netlib.re",
+        "nintendo.com",
+        "notion.so",
+        "onenovaweb.phillipmobile.com",
+        "opencode.ai",
+        "openwrt.org",
+        "ports.ubuntu.com",
+        "rss.m-team.cc",
+        "sagernet.org",
+        "sspai.com",
+        "themoviedb.org",
+        "tvfuwu.com",
+        "us.ci",
+        "wise.com",
+        "workers.dev",
+        "www.88code.org",
+        "www.m.88code.org",
+        "wzw.de5.net",
+        "xiaobaotv.com",
+        "xiaoxintv.cc",
+        "xiaoxintv.com",
+        "xbyy.app"
+      ]
+    }
+  ]
+}
