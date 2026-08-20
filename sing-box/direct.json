@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "dasho.pqjc.site",
         "1ptba.com",
         "aabbccmdd.takfu.dev",
         "announce.leaguehd.com",
@@ -19,6 +18,7 @@
         "tracker.m-team.io"
       ],
       "domain_suffix": [
+        "pqjc.site",
         "1ms.run",
         "a-ocnfniawgw.cn-shanghai.fcapp.run",
         "amp-api-search-edge.apps.apple.com",
