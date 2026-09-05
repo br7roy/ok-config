@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "rss.m-team.cc"
+      ],
+      "domain_suffix": [
+        "anyrouter.top",
+        "a-ocnfniawgw.cn-shanghai.fcapp.run"
+      ]
+    }
+  ]
+}
