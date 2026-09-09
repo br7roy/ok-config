@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "nat.qq.pw",
         "1ptba.com",
         "aabbccmdd.takfu.dev",
         "announce.leaguehd.com",
